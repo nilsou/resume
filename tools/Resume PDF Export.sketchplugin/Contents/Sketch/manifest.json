@@ -1,0 +1,20 @@
+{
+  "name": "Resume PDF Export",
+  "identifier": "com.nilshayat.resume-pdf-export",
+  "version": "1.0.0",
+  "description": "Export the resume design with readable text and PDF paragraph structure.",
+  "author": "Nils Hayat",
+  "compatibleVersion": "3.0",
+  "commands": [
+    {
+      "name": "Export Resume PDF",
+      "identifier": "export-resume-pdf",
+      "script": "export.js",
+      "handler": "onRun"
+    }
+  ],
+  "menu": {
+    "title": "Resume PDF Export",
+    "items": ["export-resume-pdf"]
+  }
+}
