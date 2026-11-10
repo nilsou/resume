@@ -10,11 +10,11 @@ Architected 3D floor plan capture and rendering for iOS, Android, and web, incre
 
 Apple | Los Angeles | 2023 – 2025
 Senior Staff Software Engineer – visionOS SurfBoard
-Architected visionOS widgets, setting technical direction for 30+ engineers. Led architecture and delivery of Hand UI with 5 engineers. Aligned iOS and visionOS design across teams and implemented eye calibration UI.
+Led OS graphics and UI architecture for an unreleased Apple platform. Architected visionOS widgets, setting technical direction for 30+ engineers. Led architecture and delivery of Hand UI with 5 engineers. Aligned iOS and visionOS design across teams and implemented eye calibration UI.
 
 Apple | Los Angeles | 2022 – 2023
 Staff Software Engineer – visionOS Music App
-Led scene management for visionOS Music. Co-led cross-functional SharePlay improvements spanning 12 engineers across Music and other media apps.
+Led scene management for visionOS Music. Co-led cross-functional SharePlay improvements spanning 12 engineers across the media and networking stacks.
 
 Apple | Los Angeles | 2021 – 2022
 Design Engineer – Software Incubation
@@ -22,7 +22,7 @@ Created an iOS-based prototyping platform for future devices and oversaw explora
 
 Apple | Cupertino | 2015 – 2021
 Staff Software Engineer – SpringBoard
-Re-architected the iOS lock screen into a modular, page-based system underpinning 10+ years of features, including iOS 16 personalization. Architected WidgetKit and its SwiftUI rendering system, guiding 20+ engineers building home screen widgets. Prototyped and implemented iPhone X unlock and Face ID interactions used billions of times daily. Presented “Build SwiftUI views for widgets” at WWDC20 for Apple’s global developer community.
+Re-architected the iOS lock screen into a modular, page-based system underpinning 10+ years of features, including iOS 16 personalization. Architected WidgetKit and its SwiftUI rendering system, guiding 40+ engineers building home screen widgets and the system to drive them. Prototyped and implemented iPhone X unlock and Face ID interactions used billions of times daily. Presented “Build SwiftUI views for widgets” at WWDC20 for Apple’s global developer community.
 
 Apple | Cupertino | 2014 – 2015
 Software Engineer – NetApps
@@ -39,8 +39,8 @@ BS & MS, Computer Science Engineering | Télécom ParisTech | 2005 – 2008
 
 TECHNICAL EXPERTISE
 
-Swift, Objective-C, C · SwiftUI, UIKit · iOS, visionOS
-Platform architecture · Framework design · Cross-platform rendering
+Swift, Objective-C, C – SwiftUI, UIKit – iOS, macOS, visionOS
+Platform architecture – Graphics and OS Architecture – Cross-platform rendering
 
 LANGUAGES
 
