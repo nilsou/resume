@@ -1,0 +1,48 @@
+NILS HAYAT
+PRINCIPAL SOFTWARE ENGINEER
++1 (347) 622-1045 | nils.hayat@gmail.com
+Technical leader with 15+ years building platforms, reusable systems, and new interaction models.
+
+EXPERIENCE
+
+Airbnb | Los Angeles | 2026 – Present
+Staff Software Engineer – Listings & Quality
+Defined shared 3D floor plan rendering and editing architecture for iOS, Android, and web. Led iOS development for House Rules & Requests across host and guest experiences. Technical lead for the Quality Review Dashboard, aligning engineering, product, and design through working prototypes.
+
+Apple | Los Angeles | 2023 – 2025
+Software Engineer – visionOS SurfBoard
+Architected visionOS widgets and Hand UI interactions. Led cross-functional work to align iOS and visionOS capabilities; contributed to eye calibration UI.
+
+Apple | Los Angeles | 2022 – 2023
+Software Engineer – visionOS Music App
+Led scene management for the visionOS Music app. Co-led cross-functional SharePlay improvements spanning Music and other media apps.
+
+Apple | Los Angeles | 2021 – 2022
+Design Engineer – Software Incubation
+Created an iOS-based prototyping platform for future devices and oversaw exploration of new interaction models, enabling rapid evaluation of product concepts.
+
+Apple | Cupertino | 2015 – 2021
+Software Engineer – SpringBoard
+Led the iOS lock screen re-architecture into a modular, page-based system that became the foundation for iOS 16 personalization. Led the creation of WidgetKit, home screen widgets, and their SwiftUI rendering system. Prototyped and implemented iPhone X unlock and Face ID interactions. Presented SwiftUI and widgets at WWDC.
+
+Apple | Cupertino | 2014 – 2015
+Software Engineer – NetApps
+Led concept exploration for the Home app and built adaptive UI across Weather, Stocks, and Settings. Delivered Stocks for iPad and Siri UI integrations for tvOS.
+
+Casserole Labs | New York | 2012 – 2013
+Lead iOS Engineer
+Led iOS application development and integration with custom and third-party APIs, translating product concepts into rich native interfaces in Objective-C and UIKit.
+
+EDUCATION
+
+MS, Applied Mathematics | Columbia University | 2008 – 2009
+BS & MS, Computer Science Engineering | Télécom ParisTech | 2005 – 2008
+
+TECHNICAL EXPERTISE
+
+Swift, Objective-C, C; SwiftUI, UIKit; iOS, visionOS
+Platform architecture; Framework design; Cross-platform rendering
+
+LANGUAGES
+
+French: native; English: fluent; Spanish: moderate; Hebrew: moderate
