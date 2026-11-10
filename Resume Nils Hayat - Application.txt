@@ -1,0 +1,63 @@
+Nils Hayat
+
++1 (347) 622-1045 | nils.hayat@gmail.com
+
+Technical leader with 15 years of experience in system design, platform architecture, and novel interaction models.
+
+EXPERIENCE
+
+Airbnb | Senior Staff Software Engineer - Listings & Quality
+
+Los Angeles | Jan 2026 - Present
+
+Architected 3D floor plan capture and rendering for iOS, Android, and web, increasing non-cancelled bookings by 3%. Led iOS development for House Rules & Requests across host and guest experiences. Technical lead for Host Quality Dashboard, using prototypes to align engineering, product, and design.
+
+Apple | Senior Staff Software Engineer - visionOS SurfBoard
+
+Los Angeles | 2023 - Dec 2025
+
+Led OS graphics and UI architecture for an unreleased Apple device. Architected visionOS Widgets, setting technical direction for 30+ engineers. Led architecture and delivery of Hand UI with 5 engineers. Aligned iOS and visionOS design across teams and implemented eye calibration UI.
+
+Apple | Staff Software Engineer - visionOS Music App
+
+Los Angeles | 2022 - 2023
+
+Led scene management for visionOS Music. Co-led cross-functional SharePlay improvements spanning 12 engineers across the media and networking stacks.
+
+Apple | Design Engineer - Software Incubation
+
+Los Angeles | 2021 - 2022
+
+Created an iOS-based prototyping platform for future devices and oversaw exploration of new interaction models, enabling rapid evaluation of product concepts.
+
+Apple | Staff Software Engineer - SpringBoard
+
+Cupertino | 2015 - 2021
+
+Re-architected the iOS lock screen into a modular, page-based system underpinning 10+ years of features, including iOS 16 personalization. Architected WidgetKit and its SwiftUI rendering system, guiding 40+ engineers building home screen widgets and the system to drive them. Prototyped and implemented iPhone X unlock and Face ID interactions used billions of times daily. Presented "Build SwiftUI views for widgets" at WWDC20 for Apple's global developer community.
+
+Apple | Software Engineer - NetApps
+
+Cupertino | 2014 - 2015
+
+Led concept exploration for the Home app and built adaptive UI across Weather, Stocks, and Settings. Delivered Stocks for iPad and Siri UI integrations for tvOS.
+
+Casserole Labs | Software Engineer
+
+New York | 2012 - 2013
+
+Led iOS application development and integration with custom and third-party APIs, translating product concepts into rich native interfaces in Objective-C and UIKit.
+
+EDUCATION
+
+Columbia University | MS, Applied Mathematics | 2008 - 2009
+
+Télécom ParisTech | BS & MS, Computer Science Engineering | 2005 - 2008
+
+TECHNICAL SKILLS
+
+Swift, Objective-C, C; SwiftUI, UIKit; iOS, macOS, visionOS
+
+System design; platform, graphics, and OS architecture; framework design; technical leadership
+
+Languages: French (native); English (fluent); Spanish (moderate); Hebrew (moderate)
